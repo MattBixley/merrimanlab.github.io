@@ -62,6 +62,7 @@ Professor Tony Merriman:
 ## Past members
 
 - Matt Bixley (Staff)
+  - [Github](https://github.com/MattBixley)
 - Edana Lord (Staff)
 - Callum Tanner (Staff)
 - James Boocock (MSc student)
